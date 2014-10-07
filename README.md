@@ -1,0 +1,4 @@
+ultisnips
+=========
+
+savemyconfig for testing
